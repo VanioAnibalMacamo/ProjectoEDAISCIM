@@ -1,0 +1,10 @@
+<zk>
+    <window id="criarMarcaForm"
+            apply=" Controller.MarcaController" >
+        <div>
+            <label>Marca</label>
+            <textbox id="txtMarca"/>
+            <button label="Cadastrar" id="btnCadastrar"/>
+        </div>
+    </window>
+</zk>
